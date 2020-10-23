@@ -9,7 +9,7 @@
 #name_of_package is the name of the package you want to install. If pip isn't installed, please refer to online forums
 
 #Basic User Instructions: 
-#You have 2 options to pick what protiens to create Star files of:
+#You have 2 options to select what protiens to create Star files of:
     #1 Input into the textbox and select 'enter'
     #2 Select a file: This file can either be a text file containing a list of proteins OR it can be a custom
     #.pdb file. Be sure to save it as a .pdb file before selecting the file! Note that you don't have to hit enter 
