@@ -1,7 +1,7 @@
 #Current Time: 2 minutes for 20 proteins 
 #Averages 6 seconds on each protein 
 
-#Welcome to BELLATRIX :D
+#Welcome to BELLATRIX
 #Language: Python
 #Note that you need the packages:
 #numpy, urllib, tkinter, csv, time, os, pandas and biopandas to run Bellatrix. 
