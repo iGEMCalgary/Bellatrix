@@ -48,8 +48,6 @@ def getlistofchains (ATOMfile):
     return chainlist
 
     #this function checks if the residue numbers in the dataframe match the advertised number of residues
-    # needs tweaking b/c assumes highest residue number is inputted correctly in PDB.
-    #Used to refine and verify the model, but has its flaws
     #INPUT: original dataframe and alphacarbon dataframe
     #MODIFICATIONS: issues arise when there are skips in the data (missing atoms or residues)
     #OUTPUT: Returns True if numbers match and False otherwise
