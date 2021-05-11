@@ -12,4 +12,4 @@ INSTALLATION:
 1. download this folder to your computer
 2. ensure you have pip installed on your OS. If not, go to this link for instructions: https://phoenixnap.com/kb/install-pip-windows 
 3. enter the command" pip install -r requirements.txt " into a command window/terminal to install dependencies
-4. type python3 Bellatrix.py into your command window and enjoy!
+4. type" python3 Bellatrix.py "into your command window and enjoy!
