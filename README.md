@@ -7,3 +7,6 @@ Bellatrix formats PDB data into novel file type called a Star file. See the atta
 See the Bellatrix.py file for indepth instruction on how to operate Bellatrix. 
 
 For a more detailed description of Bellatrix and its utility, please see this page: https://2020.igem.org/Team:Calgary/Bellatrix
+
+INSTALLATION: 
+enter the command" pip install -r requirements.txt " into a command window/terminal to install dependencies
