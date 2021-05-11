@@ -9,4 +9,7 @@ See the Bellatrix.py file for indepth instruction on how to operate Bellatrix.
 For a more detailed description of Bellatrix and its utility, please see this page: https://2020.igem.org/Team:Calgary/Bellatrix
 
 INSTALLATION: 
-enter the command" pip install -r requirements.txt " into a command window/terminal to install dependencies
+1. download this folder to your computer
+2. ensure you have pip installed on your OS. If not, go to this link for instructions: https://phoenixnap.com/kb/install-pip-windows 
+3. enter the command" pip install -r requirements.txt " into a command window/terminal to install dependencies
+4. type python3 Bellatrix.py into your command window and enjoy!
